@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Healing Journey</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="signup-container">
+        <div class="content-group">
+            <h2 class="journey-title">Ready for your Healing journey ?</h2>
+            <h1 class="started-title">Let's get started!</h1>
+        </div>
+        
+        <div class="button-container">
+            <button class="login-button">
+                <span class="login-text">Login</span>
+            </button>
+            
+            <a href="#" class="create-account">Create Account</a>
+        </div>
+    </div>
+</body>
+</html>
