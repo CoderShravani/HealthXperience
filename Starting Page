@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HealXperience</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="start-page">
+        <div class="logo-container">
+            <img src="https://dashboard.codeparrot.ai/api/image/Z7uaF1CHtJJZ6wGT/frame-19.png" alt="HX Logo" class="hx-logo">
+        </div>
+        <div class="brand-container">
+            <img src="https://dashboard.codeparrot.ai/api/image/Z7uaF1CHtJJZ6wGT/screensh-2.png" alt="HealXperience" class="brand-name">
+            <img src="https://dashboard.codeparrot.ai/api/image/Z7uaF1CHtJJZ6wGT/screensh.png" alt="Play Heal Thrive" class="brand-tagline">
+        </div>
+    </div>
+</body>
+</html>
