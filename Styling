@@ -1,0 +1,87 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+
+body {
+    background-color: #F5F4F0;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.signup-container {
+    width: 428px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+.content-group {
+    margin-bottom: 60px;
+    text-align: center;
+}
+
+.journey-title {
+    color: #8067A9;
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.started-title {
+    color: #8067A9;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.button-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+.login-button {
+    background-color: #FFFFFF;
+    border: 1px solid #000000;
+    border-radius: 100px;
+    padding: 16px 59px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.login-text {
+    color: #000000;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: 0.1px;
+}
+
+.login-button:hover {
+    background-color: #8067A9;
+    border-color: #8067A9;
+}
+
+.login-button:hover .login-text {
+    color: #FFFFFF;
+}
+
+.create-account {
+    color: #8067A9;
+    font-size: 16px;
+    font-weight: 700;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.create-account:hover {
+    color: #6A5491;
+    text-decoration: underline;
+}
+
